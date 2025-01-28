@@ -1,4 +1,4 @@
-import streamlit as st
+#import streamlit as st
 
 # Title
 st.title("AI-Driven Firm Growth Simulation")
